@@ -1,1 +1,3 @@
-# BibliotecaMultipla-1.0
+# BibliotecaMultipla
+
+Arquivos do projeto "BibliotecaMultipla".
