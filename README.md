@@ -11,3 +11,20 @@ criação da classe "ColecoesTester", com um teste em JUnit para testar o retorn
 Mudança do nome da classe "Animes" para "AnimaçãoOriental";
 criação da classe "AudioVisual" como o topo da hierarquia de classes;
 criação da classe "ExportacaoTest", com métodos em JUnit para assegurar a serialização e deserialização das classes do projeto.
+
+## Pós 17-09
+
+### Versão 0.1
+Recriação de todo o projeto, com base na utilização do JDBC;
+criação da classe "FactoryConnection".
+
+### Versão 0.2
+Criação da classe "Categoria";
+Criação e testagem da classe "CategoriaDAO".
+
+### Versão 0.3
+Criação do pacote "Pessoa";
+criação da classe "Personagem;
+criação da classe "Dublador";
+atualização no banco de dados para ter a tabela mãe "Animacao" e as tabelas filhas "Animacao_N_Assistido" e "Animacao_Assistido";
+criação do pacote "Identificador", com a interface "Identificacao" e a classe "Identificador", para englobar as regras de negocio referentes aos atributos "ID" e "Nome".
