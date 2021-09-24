@@ -28,3 +28,8 @@ criação da classe "Personagem;
 criação da classe "Dublador";
 atualização no banco de dados para ter a tabela mãe "Animacao" e as tabelas filhas "Animacao_N_Assistido" e "Animacao_Assistido";
 criação do pacote "Identificador", com a interface "Identificacao" e a classe "Identificador", para englobar as regras de negocio referentes aos atributos "ID" e "Nome".
+
+### Versão 0.4
+Criação das classes "DubladorDAO" e "PersonagemDAO";
+Criação da tabela "Dublagens" no BD;
+Criação do método "FinalizarAnimação", que troca uma animação de "Não assistido" para "assistido", possibilitando a inserção de uma nota.
