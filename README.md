@@ -33,3 +33,8 @@ criação do pacote "Identificador", com a interface "Identificacao" e a classe 
 Criação das classes "DubladorDAO" e "PersonagemDAO";
 Criação da tabela "Dublagens" no BD;
 Criação do método "FinalizarAnimação", que troca uma animação de "Não assistido" para "assistido", possibilitando a inserção de uma nota.
+
+### Versão 0.5
+Criação de uma tela interativa baseado no modelo MVC;
+criação de um javadoc para o projeto;
+criação de um documento explicativo sobre o projeto.
